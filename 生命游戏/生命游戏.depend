@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536985730 source:f:\c语言\经典算法\生命游戏\main.c
+	"game.h"
+
+1536985475 f:\c语言\经典算法\生命游戏\game.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

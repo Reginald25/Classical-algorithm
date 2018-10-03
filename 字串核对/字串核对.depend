@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536988159 source:f:\c语言\经典算法\字串核对\main.c
+	"char.h"
+
+1536987634 f:\c语言\经典算法\字串核对\char.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1536988569 source:f:\c语言\经典算法\字串核对\char.c
+	"char.h"
+
